@@ -3,6 +3,6 @@ from django.utils.translation import gettext_lazy as _
 
 
 class DjangoMyLib(AppConfig):
-    name = 'django_my_lib'
+    name = 'ativa_investimentos_data'
 
     verbose_name = _('Django My Lib')

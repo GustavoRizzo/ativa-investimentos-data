@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
-from django_my_lib import urls
+from ativa_investimentos_data import urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
