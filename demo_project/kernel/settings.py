@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ativa_investimentos_data',
+    'ativa_investimentos_data.carteira_cotizada',
 ]
 
 MIDDLEWARE = [
